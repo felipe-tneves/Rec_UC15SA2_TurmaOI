@@ -1,0 +1,15 @@
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\bin\Debug\net7.0\Rec_UC15SA2_TurmaOI.exe
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\bin\Debug\net7.0\Rec_UC15SA2_TurmaOI.deps.json
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\bin\Debug\net7.0\Rec_UC15SA2_TurmaOI.runtimeconfig.json
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\bin\Debug\net7.0\Rec_UC15SA2_TurmaOI.dll
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\bin\Debug\net7.0\Rec_UC15SA2_TurmaOI.pdb
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\obj\Debug\net7.0\Rec_UC15SA2_TurmaOI.csproj.AssemblyReference.cache
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\obj\Debug\net7.0\Rec_UC15SA2_TurmaOI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\obj\Debug\net7.0\Rec_UC15SA2_TurmaOI.AssemblyInfoInputs.cache
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\obj\Debug\net7.0\Rec_UC15SA2_TurmaOI.AssemblyInfo.cs
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\obj\Debug\net7.0\Rec_UC15SA2_TurmaOI.csproj.CoreCompileInputs.cache
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\obj\Debug\net7.0\Rec_UC15SA2_TurmaOI.dll
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\obj\Debug\net7.0\refint\Rec_UC15SA2_TurmaOI.dll
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\obj\Debug\net7.0\Rec_UC15SA2_TurmaOI.pdb
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\obj\Debug\net7.0\Rec_UC15SA2_TurmaOI.genruntimeconfig.cache
+C:\Users\Felipe.Tadeu\Desktop\Rec_UC15SA2_TurmaOI\obj\Debug\net7.0\ref\Rec_UC15SA2_TurmaOI.dll
